@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>PAC3 Redondo_Alcantara_Oscar video</title>
+  <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+</head>
+<body>
+<a-scene>
+  <a-assets>
+    <!-- Inicializem el video -->
+    <video id="fonsVideo" autoplay  muted="true" playsinline webkit-playsinline src="recursos/video_neu.mp4"></video>
+  </a-assets>
+
+  <!-- Apliquem el vídeo al fons -->
+  <a-videosphere src="#fonsVideo"></a-videosphere>
+
+  <!-- Posem un text -->
+  <a-text value="COMPTE AMB LA CAIGUDA!!!!"
+          color="#000000"
+          position="0 2 -4"
+          scale="1. 1.5 1.5"
+          align="center">
+  </a-text>
+
+  <!-- Inicializem la camera -->
+  <a-camera position="0 1.6 0" rotation="0 -220 0">
+    <a-cursor color="#000000"></a-cursor>
+  </a-camera>
+</a-scene>
+
+<!-- Faig que es reprodueixi el vídeo al fer clic, ja que sino no carregaba -->
+<script>
+  window.addEventListener('click', function () {
+    var reproductor = document.querySelector('#fonsVideo');
+    reproductor.play();
+  });
+</script>
+
+</body>
+</html>
