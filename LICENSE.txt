@@ -1,0 +1,22 @@
+En la realització d'aquesta pràctica s'ha fet ús dels següents recursos aliens, detallant-ne l'autoria, procedència i estatus legal tal com exigeixen les condicions de lliurament de l'activitat:
+
+Recurs 1: Imatge panoràmica 360º
+
+Nom del recurs: foto_neu.jpg (Imatge original: "winter-panorama-mountains-snow")
+
+Autor: Creador a la plataforma Pixabay.
+
+Lloc d'obtenció: https://pixabay.com/photos/winter-panorama-mountains-snow-2383930/
+
+Estatus legal: Llicència de Contingut de Pixabay (Pixabay Content License). Aquesta llicència permet utilitzar i adaptar el contingut de manera totalment gratuïta per a nous treballs i especifica que no és obligatori atribuir-ne l'autoria. L'ús en el marc d'aquesta pràctica està plenament permès i lliure de drets d'autor restrictius.
+
+
+Recurs 2: Vídeo panoràmic 360º
+
+Nom del recurs: video_neu.mp4
+
+Autor: Canal de YouTube "NitroVR360".
+
+Lloc d'obtenció: YouTube (Canal NitroVR360).
+
+Estatus legal: L'obra original està protegida pel copyright de l'autor ("NitroVR360"). L'arxiu s'ha obtingut de manera pública i s'utilitza de manera estricta i exclusiva amb finalitats acadèmiques, formatives i no comercials dins de l'entorn de la UOC, sense intenció de lucre ni de publicació externa, assumint-ne la protecció legal vigent.
